@@ -1,7 +1,7 @@
 ## 🐱️
 I'm Sunny, Chill guy who loves low-level programming more than anything (except my sweetheart, ofc).
 
-Everyday IDEs: Qt Creator, VSCode
+Everyday IDEs: Qt Creator, Zed, VScode
 
 Favourite languages: C/C++, Rust, Assembly, or writing bytes directly into the file
 
