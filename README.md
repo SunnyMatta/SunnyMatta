@@ -3,7 +3,7 @@ I'm Sunny, Chill guy who loves low-level programming more than anything (except 
 
 Everyday IDEs: Qt Creator, Zed, VScode
 
-Favourite languages: C/C++, Rust, Assembly, or writing bytes directly into the file
+Favourite languages: C, C#, Rust, Assembly, or writing bytes directly into the file
 
 Current OS: Linux, and always will (Fedora, Debian)
 
