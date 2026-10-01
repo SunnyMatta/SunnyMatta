@@ -1,13 +1,22 @@
-## 🐱️
-I'm Sunny, Chill guy who loves low-level programming more than anything (except my sweetheart, ofc).
+I'm Sunny, Chill guy who loves low-level programming.
 
-Everyday IDEs: Qt Creator, Zed, VScode
+- IDEs:
+  - Qt Creator
+  - Zed
+  - VScode
 
-Favourite languages: C, C#, Rust, Assembly, or writing bytes directly into the file
+- Favourite languages:
+    - C
+    - C#
+    - Rust
+    - Assembly
+    - writing bytes directly into the file :P
 
-Current OS: Linux, and always will (Fedora, Debian)
+Current OS: Linux *(Fedora, Debian)*, and always will.
 
-*Note:* I still use Windows for cross-platform compilation and testing :P
+*Note:* Windows is still in-use as a second OS due to cross-platform compilations and tests :P
 
-## Regarding AI
-My repositories involve AI action **AS AN ASSISTANT**. Entire code is hand-written **without abusing AI !** which means that I do actually sit down, read docs, and suffer.
+### AI Policy
+My codes involve AI actions for **security and vulnerability checking only !** Entire code is hand-written without abusing AI.
+
+If I used AI for anything, I must review, verify, and understand it before pushing.
