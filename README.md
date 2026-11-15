@@ -32,6 +32,7 @@ Discord: sunnymatta
 ### AI Policy
 My codes involve AI actions for **security and vulnerability checking only !** Entire code is hand-written without abusing AI.
 
-If AI was used by me, then I must review, verify, and understand it before pushing.
+And even if AI was used somewhere, Its suggested codes are reviewed, verified, and understood.
 
+<sub> Overall I just trying to avoid AI because it takes away fun from programming </sub>
 
